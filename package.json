@@ -1,9 +1,9 @@
 {
 	"author": "",
-	"name": "meanseed",
+	"name": "meandseed",
 	"version": "0.0.0",
 	"description": "My really cool app!",
-	"homepage": "https://github.com//meanseed",
+	"homepage": "https://github.com//meandseed",
 	"dependencies": {
 		"async": "1.3.0",
 		"body-parser": "1.13.2",

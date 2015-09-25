@@ -11,8 +11,8 @@
 		"logfile": "forever.log"
 	},
 	"app": {
-		"name": "meanseed",
-		"title": "meanseed"
+		"name": "meandseed",
+		"title": "meandseed"
 	},
 	"platform":"",
 	"server": {
@@ -41,7 +41,7 @@
 		"fullURI": "",
 		"host": "localhost",
 		"port": 27017,
-		"database": "meanseed",
+		"database": "meandseed",
 		"username": false,
 		"password": false
 	},
@@ -90,7 +90,7 @@
 		"addresses": {
 			"noReply": "noreply"
 		},
-		"from": "admin@meanseed.com",
+		"from": "admin@meandseed.com",
 		"from_name": "Admin",
 		"mandrillApiKey": "8X-1bNRWtA4rbneppkqahw",
 		"mandrillApiKeyComment":"Make sure to CHANGE this!"
