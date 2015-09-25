@@ -1,0 +1,11 @@
+{
+    "name": "meanseed",
+    "description": "My really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com//meanseed",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
